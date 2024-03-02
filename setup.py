@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.4"
 REPO_NAME = "satlab_pypackage"
 PKG_NAME= "sridharmongodbconnect"
-AUTHOR_USER_NAME = "SridharModukuur"
+AUTHOR_USER_NAME = "SridharModukuru"
 AUTHOR_EMAIL = "sridharmodukuru@gmail.com"
 
 setup(
