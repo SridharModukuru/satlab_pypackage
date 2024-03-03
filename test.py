@@ -13,5 +13,4 @@ def get_requiremet(file_path:str)->List[str]:
             requirements.remove(HYPEN_E_DOT)
     return requirements
 
-requirements_file = os.path.join(".", "requirements_dev.txt")
-get_requirement(requirements_file)
+print(get_requiremet("./requirements.txt"))
